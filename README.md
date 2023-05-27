@@ -15,10 +15,9 @@ Movies is a web application that allows users to watch free movies without ads, 
 ## Technologies Used
 
 - **Frontend:** React.js, HTML, CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **APIs:** The Movie Database (TMDb) API for movie data
-- **Deployment:** Heroku, GitHub Pages
+- **Backend:** Node.js
+- **APIs:** The Movie Database (TMDb) API for movie data and 2embed.to for streaming movies
+- **Deployment:** GitHub Pages
 
 ## Installation and Usage
 
