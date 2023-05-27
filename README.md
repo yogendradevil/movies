@@ -40,6 +40,9 @@ Movies is a web application that allows users to watch free movies without ads, 
 ![image](https://github.com/yogendradevil/movies/assets/81254268/6000f4e9-f46c-4698-91d4-8266c39e6fe1)
 *Caption: search bar*
 
+![image](https://github.com/yogendradevil/movies/assets/81254268/1b89a77a-3e55-4c17-90b3-bbf7f32ab115)
+*Caption: streaming movie*
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
