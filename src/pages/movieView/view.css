@@ -1,0 +1,10 @@
+.frame{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+iframe{
+    height: 85vh;
+    width: 90%;
+}
