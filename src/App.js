@@ -8,6 +8,7 @@ import MovieView from './pages/movieView/view';
 import MovieSearch from './pages/movieSearch/search';
 import Footer from './components/Footer';
 
+
 function App() {
   return (
     <div className="App">
